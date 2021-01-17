@@ -15,3 +15,5 @@ cd <project directory>
 mvn clean install
 ```
 
+* Copy generated 'war' file to your application server desired directory for testing.
+
